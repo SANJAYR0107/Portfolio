@@ -7,7 +7,7 @@ const chatbotData = {
       {
         id: "about-1",
         question: "Who is Sanjay R?",
-        answer: "Sanjay R is a final year B.E. Electrical and Electronics Engineering student at Sri Eshwar College of Engineering. He is an aspiring DevOps and Cloud Engineer with a strong passion for building reliable software infrastructure, automation, and modern deployments."
+        answer: "Sanjay R is a final year B.E. Electrical and Electronics Engineering student at Sri Shakthi Institute Of Engineering and Technology. He is an aspiring DevOps and Cloud Engineer with a strong passion for building reliable software infrastructure, automation, and modern deployments."
       },
       {
         id: "about-2",
@@ -17,12 +17,12 @@ const chatbotData = {
       {
         id: "about-3",
         question: "What is Sanjay's educational background?",
-        answer: "Sanjay is currently pursuing a Bachelor of Engineering (B.E.) in Electrical and Electronics Engineering (EEE) at Sri Eshwar College of Engineering, with an expected graduation in 2027."
+        answer: "Sanjay is currently pursuing a Bachelor of Engineering (B.E.) in Electrical and Electronics Engineering (EEE) at Sri Shakthi Institute Of Engineering and Technology, with an expected graduation in 2027."
       },
       {
         id: "about-4",
         question: "Which college does Sanjay study at?",
-        answer: "Sanjay studies at Sri Eshwar College of Engineering in Coimbatore, Tamil Nadu, India."
+        answer: "Sanjay studies at Sri Shakthi Institute Of Engineering and Technology in Coimbatore, Tamil Nadu, India."
       },
       {
         id: "about-5",

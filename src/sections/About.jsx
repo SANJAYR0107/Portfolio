@@ -22,7 +22,7 @@ export default function About() {
   }, [inView]);
 
   const facts = [
-    { label: "Education", value: "B.E. EEE — Sri Eshwar College of Engineering, Coimbatore (Graduating 2027)" },
+    { label: "Education", value: "B.E. EEE — Sri Shakthi Institute Of Engineering and Technology, Coimbatore (Graduating 2027)" },
     { label: "Role", value: "Aspiring Cloud & DevOps Engineer focused on reliable infrastructure." },
     { label: "Core Tools", value: "AWS, Docker, CI/CD, Git, Linux, Node.js" },
     { label: "Goal", value: "Automating repetitive processes and improving deployment reliability." },
